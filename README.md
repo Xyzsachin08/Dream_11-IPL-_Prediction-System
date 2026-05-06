@@ -1,2 +1,10 @@
-# Dream_11(IPL)_Prediction System
+## 🏠 Home Page
+![Home](home.jpeg)
+
+
+
+
+
+  
+
 
