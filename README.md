@@ -69,7 +69,10 @@ This system helps analyze IPL player performance using real match statistics and
 ![Ranking](Ranking.jpeg)
 
 
-## Prject Structure
+
+## 📂 Project Structure
+
+```text
 Dream11_IPL_Prediction_System/
 │
 ├── screenshots/
@@ -77,11 +80,13 @@ Dream11_IPL_Prediction_System/
 │   ├── Best11.jpeg
 │   ├── Analysis.jpeg
 │   ├── Match_winner.jpeg
-│   ├──Ranking.jpeg
+│   └── Ranking.jpeg
+│
 ├── app.py
 ├── analysis.py
 ├── IPL.csv
 └── README.md
+```
 
 
 ## ▶️ Run Project
